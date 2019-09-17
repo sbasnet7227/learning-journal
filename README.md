@@ -9,7 +9,7 @@ This learning journal is about how to create first web site using Github.
 - In a growth mindset, people believe that their most basic abilities can be developed through dedication and hard work—brains and talent are just the starting point. This view creates a love of learning and a resilience that is essential for great accomplishment.
 
 ### Include 3 reminers to yourself of how to keep yourself in a growth mindset:
-** Dedication and hard work **
+**Dedication and hard work**
 - Utilize at least 5 different features of Markdown to sttructure your page
 
 hi i m sunil and this is my learning journals for 102. my gihub page is
