@@ -14,12 +14,10 @@ This learning journal is about how to create first web site using Github.
 - Be motivated what you do.
 - Utilize at least 5 different features of Markdown to sttructure your page
 
-**Hi** I'm ***Sunil Basnet*** and this is my first Class at code felows for Code-102. **M**y github page is
+**Hi** I'm ***Sunil Basnet*** and this is my first Class at code felows for Code-102. ####My github page is
 
+(https://github.com/sbasnet7227/learning-journal/edit/master/README.md) 
 
-You can use the [editor on GitHub](https://github.com/sbasnet7227/learning-journal/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
