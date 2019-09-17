@@ -1,7 +1,7 @@
 ## Welcome to My Awesome Learning-Journal!
 
 # Author Brief Introduction:
-I'm Army veterans and eager to learn new technology.
+I'm Army veterans and eager to learn new technology. To view my GitHub account[Click here](https://github.com/sbasnet7227)
 
 This learning journal is about how to create first web site using Github.
 
