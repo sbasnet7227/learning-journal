@@ -1,9 +1,8 @@
 ## Welcome to My Awesome Learning-Journal!
 
 # Author Brief Introduction:
-I'm Army veterans and eager to learn new technology. To view my GitHub account[Click here](https://github.com/sbasnet7227)
-
-This learning journal is about how to create first web site using Github.
+I'm Army veterans and eager to learn new technology. 
+I love to learn new thing and love challanges. I am always fascinated about the Programming.
 
 ## Growth Mindset:
 - In a growth mindset, people believe that their most basic abilities can be developed through dedication and hard work—brains and talent are just the starting point. This view creates a love of learning and a resilience that is essential for great accomplishment.
@@ -15,7 +14,7 @@ This learning journal is about how to create first web site using Github.
 - Utilize at least 5 different features of Markdown to sttructure your page
 
 **Hi** I'm ***Sunil Basnet*** and this is my first Class at code felows for Code-102. 
-#### My github page is [GitHub](https://github.com/sbasnet7227)
+To view my GitHub account[Click here](https://github.com/sbasnet7227)
 
 
 
