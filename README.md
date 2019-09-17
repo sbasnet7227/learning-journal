@@ -15,7 +15,7 @@ This learning journal is about how to create first web site using Github.
 - Utilize at least 5 different features of Markdown to sttructure your page
 
 **Hi** I'm ***Sunil Basnet*** and this is my first Class at code felows for Code-102. 
-#### My github page is [(https://github.com/sbasnet7227)]
+#### My github page is [my github](https://github.com/sbasnet7227)
 
 
 
