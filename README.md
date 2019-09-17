@@ -1,4 +1,16 @@
-## Welcome to My Awesome Learning-Journal
+## Welcome to My Awesome Learning-Journal!
+
+# Introduction:
+I'm Army veterans and eager to learn new technology.
+
+-This learning journal is about how to creat first web site using Github.
+
+- Explain Growth Mindset in your own words
+- Include 3 reminers to yourself of how to keep yourself in a growth mindset
+- Utilize at least 5 different features of Markdown to sttructure your page
+
+hi i m sunil and this is my learning journals for 102. my gihub page is
+
 
 You can use the [editor on GitHub](https://github.com/sbasnet7227/learning-journal/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
