@@ -5,7 +5,7 @@ I'm Army veterans and eager to learn new technology.
 I love to learn new thing and love challanges. I am always fascinated about the Programming.
 
 ## Growth Mindset
-  -In a growth mindset, people believe that their most basic abilities can be developed through dedication and hard work—brains and talent are just the starting point.
+  - In a growth mindset, people believe that their most basic abilities can be developed through dedication and hard work—brains and talent are just the starting point.
 
 ### Include 3 reminers to yourself of how to keep yourself in a growth mindset:
 - Dedication and hard work.
