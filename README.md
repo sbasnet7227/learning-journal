@@ -17,7 +17,10 @@ I love to learn new thing and love challanges. I am always fascinated about the 
 To view my GitHub account[Click here](https://github.com/sbasnet7227)
 
 
-#Day at Code Fellows **code-102**
+# Day at Code Fellows **code-102**
+
+### list of task
+- Install VSCode editor
 
 
 
