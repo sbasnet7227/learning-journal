@@ -19,8 +19,12 @@ To view my GitHub account[Click here](https://github.com/sbasnet7227)
 
 # Day at Code Fellows **code-102**
 
-### list of task
+### List of task
+- Setup for mac ox terminal.
+- Install Homebrew:the de facto package manager for OS X
 - Install VSCode editor
+- Use command line
+- 
 
 
 
