@@ -32,7 +32,9 @@ To view my GitHub account[Click here](https://github.com/sbasnet7227)
   - use the command: brew install node
 - Verify the Node installation:
   - node -e 'console.log("works")' : response will be works
-
+- Install ESLint :
+- Integrate ESLint with VS Code
+- install git using brew install git command
 
 
 
