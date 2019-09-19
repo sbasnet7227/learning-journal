@@ -22,7 +22,10 @@ To view my GitHub account[Click here](https://github.com/sbasnet7227)
 ### List of task
 - Setup for mac ox terminal.
 - Install Homebrew:the de facto package manager for OS X
+- To verify Homebrew is installed correctly, use the brew doctor command in terminal
 - Install VSCode editor
+- Install shell command:
+  - You’ll find it useful to open files and directories in VSCode from the terminal, but that functionality needs to be configured first.Open the Command Palette (shift+ p) and type ‘shell command’ to find the Shell Command: Install ‘code’ command in PATH command.
 - Use command line
 - 
 
