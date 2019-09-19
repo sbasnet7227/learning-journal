@@ -26,8 +26,12 @@ To view my GitHub account[Click here](https://github.com/sbasnet7227)
 - Install VSCode editor
 - Install shell command:
   - You’ll find it useful to open files and directories in VSCode from the terminal, but that functionality needs to be configured first.Open the Command Palette (shift+ p) and type ‘shell command’ to find the Shell Command: Install ‘code’ command in PATH command.
-- Use command line
-- 
+- Associate VSCode with Git:
+  - use this command in terminal : git config --global core.editor "code --wait"
+- Install Node:
+  - use the command: brew install node
+- Verify the Node installation:
+  - node -e 'console.log("works")' : response will be works
 
 
 
