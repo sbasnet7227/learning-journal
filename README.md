@@ -34,7 +34,10 @@ To view my GitHub account[Click here](https://github.com/sbasnet7227)
   - node -e 'console.log("works")' : response will be works
 - Install ESLint :
 - Integrate ESLint with VS Code
-- install git using brew install git command
+- install git:
+  - use command :brew install git command
+- Config Git with Git userName and email associated with git.
+
 
 
 
