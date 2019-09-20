@@ -41,7 +41,16 @@ To view my GitHub account[Click here](https://github.com/sbasnet7227)
 ## Reading Materials!
 - A command line, or terminal, is a text based interface to the system. Learning Command line is one of the most powerful tool. \
 **Opening Terminal** :If you're on a Mac then you'll find the program Terminal under Applications -> Utilities.
-
-
+- The Shell, Bash
+- **Basic Navigation**
+  - pwd : It displays the current working directory.
+  - ls : shows lists of current location
+  - Relative path
+    - A file or directory location relative to where we currently are in the file system.
+  - Absolute path
+    - A file or directory location in relation to the root of the file system.
+  - cd which stands for change directory:
+    - cd[location] : this command will move around the location directory.
+    - If we run the command cd without any arguments then it will always take back to home directory.
 
 
