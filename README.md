@@ -39,7 +39,7 @@ To view my GitHub account[Click here](https://github.com/sbasnet7227)
 - Config Git with Git userName and email associated with git.
 
 ## Reading Materials!
-- A command line, or terminal, is a text based interface to the system. Learning Command line is one of the most powerful tool.
+- A command line, or terminal, is a text based interface to the system. Learning Command line is one of the most powerful tool. \
 **Opening Terminal** :If you're on a Mac then you'll find the program Terminal under Applications -> Utilities.
 
 
