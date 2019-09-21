@@ -14,6 +14,6 @@ I love to learn new thing and love challanges. I am always fascinated about the 
 - Utilize at least 5 different features of Markdown to sttructure your page
 
 **This** is ***my first Class at code felows for Code-102***. 
-To view my GitHub account[Click here](https://github.com/sbasnet7227)
-
- [Go back](README.md)                              [Next](Day2.md)
+To view my GitHub account[Click here](https://github.com/sbasnet7227)<br/>
+                          
+ [Go back](README.md)                                      [Next](Day2.md)
