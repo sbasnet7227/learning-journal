@@ -15,5 +15,5 @@ I love to learn new thing and love challanges. I am always fascinated about the 
 
 **This** is ***my first Class at code felows for Code-102***. 
 To view my GitHub account[Click here](https://github.com/sbasnet7227)<br/>
-                          
- [Go back](README.md)                                      [Next](Day2.md)
+                 
+ [Go back](README.md)                                  [Next](Day2.md)

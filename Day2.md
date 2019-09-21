@@ -32,7 +32,7 @@
     - A file or directory location in relation to the root of the file system.
   - cd which stands for change directory:
     - cd[location] : this command will move around the location directory.
-    - If we run the command **cd** without any arguments then it will always take back to home directory.
+    - If we run the command **cd** without any arguments then it will always take back to home directory.<br>
 
-    [Previous](Day1.md)                             [Next](Day3.md)
+    [Previous](Day1.md)                                    [Next](Day3.md)
     
