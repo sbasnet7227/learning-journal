@@ -1,4 +1,4 @@
-# Day2 at Code Fellows **code-102**
+# Day2 at **Code Fellows**
 
 ### List of task
 - Setup for mac ox terminal.
