@@ -4,5 +4,5 @@
   **Version Control:**
   - Local Version Control
   - Centralized Version Control
-  - Distributed Version Control
+  - Distributed Version Control <br/>
   [Previous](Day2.md)                              [Home Page](README.md)
