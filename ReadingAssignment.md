@@ -3,7 +3,7 @@
 -  Git is a distributed version control that stores data in a file system made up of snapshots.
 
 ### **Version Control:**
-    - Version Control is a system that allows you to revisit various versions of a file or set of files by recording changes. Through version control, one can revert a file or project to a previous version, track modifications and modifying individuals, and compare changes. By utilizing a Version Control System (VCS), mistakes with files can easily be rectified.
+- Version Control is a system that allows you to revisit various versions of a file or set of files by recording changes. Through version control, one can revert a file or project to a previous version, track modifications and modifying individuals, and compare changes. By utilizing a Version Control System (VCS), mistakes with files can easily be rectified.
 - Types of Version COntrol
     - Local Version Control
     - Centralized Version Control
@@ -28,7 +28,7 @@
 
 - Local Repository Structure: The local Git repository has three components:
 
-    1.Working Directory: The actual files reside here.
-    2.Index: The area used for staging
-    3.Head: Points to the most recent commit
+    - Working Directory: The actual files reside here.
+    - Index: The area used for staging
+    - Head: Points to the most recent commit
 

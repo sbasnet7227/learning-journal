@@ -34,6 +34,5 @@
     - cd[location] : this command will move around the location directory.
     - If we run the command **cd** without any arguments then it will always take back to home directory.
 
-    **go back** [Day 1](Day1.md)
-    **got next** [Day 3](Day3.md)
+    [Previous](Day1.md)                             [Next](Day3.md)
     
