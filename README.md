@@ -55,7 +55,7 @@ To view my GitHub account[Click here](https://github.com/sbasnet7227)
     
   # Day3 at Code Fellows **code-102**
   ### Reading Materials
-  **Version Control**
+  **Version Control:**
   - Local Version Control
   - Centralized Version Control
   - Distributed Version Control
