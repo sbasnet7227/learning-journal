@@ -1,4 +1,4 @@
-# JaveScript and jQuery:
+# JavaScript and jQuery:
 ### Introduction and Script:
 - Jave Script contains the following mathematical operators, which we can use with numbers. It is similar to mathematical symbol however; slight different.
 #### Some of the JavaScritp operators are:
