@@ -4,7 +4,10 @@
 ## Types of LOOPS:
 - For Loop
     - This  kind of loop runs the code for specific number of times. It is the most common loop. In a 'for loop' , the condition is usually a counter which is used to tell how many times the loop should run.
-    > for (var i = 0; i< n ; i++){}
+    > for (var i = 0; i< n ; i++)
+        {
+
+        }
 - While Loop
 - Do While Loop
 
